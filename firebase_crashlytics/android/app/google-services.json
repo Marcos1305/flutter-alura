@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794089501246",
+    "project_id": "alura-flutter-crashlytics",
+    "storage_bucket": "alura-flutter-crashlytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794089501246:android:069c87cae9965cea1b176f",
+        "android_client_info": {
+          "package_name": "br.com.bytebank.curso_crashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794089501246-7u8u0oul9d78466eo51e2s94c9ec5o28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtbawD44ZN5JxNs_hKaEVC27gX1s3bISg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794089501246-7u8u0oul9d78466eo51e2s94c9ec5o28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
